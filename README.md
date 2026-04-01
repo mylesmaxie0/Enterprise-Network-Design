@@ -6,4 +6,5 @@ This project simulates a production-grade enterprise network across two sites us
 #
 
 ### Network Architecture 
-<img width="1679" height="969" alt="Screenshot 2026-04-01 at 10 50 00 AM" src="https://github.com/user-attachments/assets/baafc217-1ca9-45a3-a24b-f0e8ff6194c4" />
+<img width="1679" height="969" alt="Screenshot 2026-04-01 at 10 50 00 AM" src="https://github.com/user-attachments/assets/541fc5ea-580e-4d75-aeb2-5539ea8791c8" />
+
